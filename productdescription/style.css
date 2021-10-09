@@ -1,0 +1,24 @@
+#main{
+    margin-top: 2%;
+    
+}
+#product-name{
+    margin-left:80px
+}
+#product-price{
+    margin-left:85px;
+}
+#description{
+    margin-left:43px;
+}
+#address{
+    margin-left:66px;
+}
+#add{    
+    text-align: center;
+}
+button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
